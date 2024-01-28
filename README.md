@@ -1,2 +1,2 @@
 # food-not-food
-machine learning app to check whether a food or not
+machine learning app to check whether a photos is  food or not
